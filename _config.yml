@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jingyu Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "email: liujingyu20@mails.ucas.ac.cn"
   location         : "Earth"
   employer         : "Beihang University"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #
   impactstory      : # URL
-  orcid            : "#
+  orcid            : #
   semantic         : # URL
-  pubmed           : "#
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
